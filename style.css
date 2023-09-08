@@ -1,0 +1,55 @@
+h1{
+    text-align: center;
+}
+.tagline{
+    text-align: center;
+}
+.introduction{
+    padding: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.a1{
+    display: flex;
+}
+.left{
+    width: 50%;
+    height:100%;
+}
+.side2{
+    margin: auto;
+    margin-left: 50px;
+}
+.tb1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    border-collapse: collapse;
+}
+th,td{
+    border: 1px solid rgba(0, 0, 0, 0.6);
+}
+.im1 img{
+    width: 100px;
+}
+.im2 img{
+    width: 100px;
+}
+.im3 img{
+    width: 100px;
+}
+.im4 img{
+    width: 100px;
+}
+.btn{
+    background-color: greenyellow;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-left: 50%;
+        
+}
+.btn:hover{
+    background-color: aqua;
+}
+
